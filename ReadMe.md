@@ -3,7 +3,9 @@
 
 ### in the firt time install Composer in your machine
 
-### instal package fast-route
+### instal package fast-route 
+
+https://packagist.org/packages/nikic/fast-route
 
         composer require nikic/fast-route
 
