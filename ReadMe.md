@@ -1,9 +1,9 @@
 ## Make a PHP Router
 
 
-### in the firt time install Composer in your machine
+### in the first time install Composer in your machine
 
-### instal package fast-route 
+### install package fast-route 
 
 https://packagist.org/packages/nikic/fast-route
 
