@@ -1,0 +1,13 @@
+{
+    "name": "chris/fastroute",
+    "description": "Fastroute tutorial",
+    "autoload": {
+        "psr-4": {
+            "Tutorial\\Fastroute\\": "src/"
+        }
+    },
+    "require": {
+        "nikic/fast-route": "^1.3",
+        "twig/twig": "^3.3"
+    }
+}
