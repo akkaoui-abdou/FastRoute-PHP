@@ -14,6 +14,11 @@ https://packagist.org/packages/nikic/fast-route
 
         composer require "twig/twig:^3.0"
 
+### Fix error Route Not Found
+
+by adding file .htaccess
+
+
 
 
 Links :
